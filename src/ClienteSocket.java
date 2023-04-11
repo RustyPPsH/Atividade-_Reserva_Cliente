@@ -5,11 +5,7 @@ import java.io.PrintWriter;
 import java.net.Socket;
 import javax.swing.JOptionPane;
 
-/**
- * Cliente socket.
- *
- * @author osmar
- */
+
 public class ClienteSocket {
 
     /**
